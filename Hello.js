@@ -1,2 +1,2 @@
 // This is a "Hello, World!" JavaScript program
-console.log("Hello, World!");
+document.write("Hello, World 4:49!");
