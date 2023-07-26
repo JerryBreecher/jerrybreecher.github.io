@@ -1,3 +1,3 @@
 // This is a "Hello, World!" JavaScript program
-document.write("Hello, World");
+document.write("Hello, World\n\n");
 document.write("This code is written in javascript")
